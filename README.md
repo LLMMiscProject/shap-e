@@ -4,8 +4,9 @@ https://github.com/openai/shap-e
 # 在线生成模型
 [https://huggingface.co/spaces/hysts/S...](https://huggingface.co/spaces/hysts/Shap-E)
 
-# 在线代码生成模型
+# 在线代码生成模型1
 [https://colab.research.google.com/dri...](https://colab.research.google.com/drive/1XvXBALiOwAT5-OaAD7AygqBXFqTijrVf?usp=sharing)
+# 在线代码生成模型2
 https://colab.research.google.com/drive/1XvXBALiOwAT5-OaAD7AygqBXFqTijrVf?usp=sharing
 
 # Shap-E
