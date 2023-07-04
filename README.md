@@ -1,3 +1,13 @@
+# shap-e github
+https://github.com/openai/shap-e
+
+# 在线生成模型
+[https://huggingface.co/spaces/hysts/S...](https://huggingface.co/spaces/hysts/Shap-E)
+
+# 在线代码生成模型
+[https://colab.research.google.com/dri...](https://colab.research.google.com/drive/1XvXBALiOwAT5-OaAD7AygqBXFqTijrVf?usp=sharing)
+https://colab.research.google.com/drive/1XvXBALiOwAT5-OaAD7AygqBXFqTijrVf?usp=sharing
+
 # Shap-E
 
 This is the official code and model release for [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463).
